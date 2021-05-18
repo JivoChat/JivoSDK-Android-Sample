@@ -14,10 +14,7 @@ class App : Application() {
         super.onCreate()
         Jivo.init(
             appContext = this,
-            siteId = 251342,
-            widgetId = "PJp64kxPS9",
-            host = "andro1d.dev.jivosite.com",
-            port = "1443"
+            widgetId = "Q7BcPYNqCG"
         )
     }
 }
